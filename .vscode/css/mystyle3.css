@@ -1,0 +1,60 @@
+.card
+{
+    font: size 1.5em; ;
+    background-color:rgb(237, 193, 212) ;
+    padding:20px ;
+}
+#parent_div
+{
+    gap: 10px; ;
+    padding:10px ;
+    margin: 20px;
+    display: flex;
+    background-color:rgb(141, 0, 249) ;
+
+}
+.header image
+{
+    width: 100%;
+
+}
+
+#logo_div
+{
+    display: flex;
+    gap: 15px;
+}
+#link_div
+{
+    margin-top: 20px;
+}
+#link_div>a
+{
+   
+    margin-left: 30px;
+    font-size: 1.5rem;
+    text-decoration: none;
+
+}
+nav
+{
+      background-color: rgb(209, 231, 150);
+      padding: 10px;
+      display: flex;
+      justify-content: space-between;
+
+}
+img
+{
+    border-radius: 20px;
+}
+p
+{
+    margin-block-start: 3em;
+    margin-block-end: 3em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+img {
+    border-radius: 20px;
+}
